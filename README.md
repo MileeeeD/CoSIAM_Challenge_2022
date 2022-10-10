@@ -19,3 +19,6 @@
 |            |                                                                |                                                                                                                                                                 |
 |   Extra 8  |                            word2vec                            | [jupyter notebook](https://github.com/vivianamarquez/CoSIAM_Challenge_2022/blob/main/jupyter_notebooks/resueltos/clase08%20-%20word2vec%20-%20SUPLEMENTO.ipynb) |
 |  Extra 11  |                     Red Neuronal Recurrente                    |    [jupyter notebook](https://github.com/vivianamarquez/CoSIAM_Challenge_2022/blob/main/jupyter_notebooks/resueltos/clase11%20-%20rnn%20-%20SUPLEMENTO.ipynb)   |
+
+
+Si deseas ver los notebooks sin código para ir llenando al ritmo de la clase, están disponibles en [este](https://github.com/vivianamarquez/CoSIAM_Challenge_2022/tree/main/jupyter_notebooks/por_resolver) folder.
